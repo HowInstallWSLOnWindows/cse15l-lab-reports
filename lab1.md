@@ -1,5 +1,14 @@
 # cd command
-![Image](cdstuff.png)
+![Image](cdempty.png)
+![Image](cddirectory.png)
+![Image](cdtxt.png)
 
 # ls command
-![Image](lsstuff.png)
+![Image](lsempty.png)
+![Image](lsdirectory.png)
+![Image](lstxt.png)
+
+# cat command
+![Image](catempty.png)
+![Image](catdirectory.png)
+![Image](cattxt.png)
