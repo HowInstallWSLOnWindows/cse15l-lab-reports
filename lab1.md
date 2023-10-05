@@ -1,5 +1,6 @@
 # cd command
 ![Image](cdempty.png)
+When cd was used with no arguments, we stayed in the same directory as using cd without any arguments takes us to home directory.
 ![Image](cddirectory.png)
 ![Image](cdtxt.png)
 
