@@ -3,8 +3,8 @@
 When cd was used with no arguments, we stayed in the same directory which is not an error as using cd without any arguments takes us to home directory.
 ![Image](cddirectory.png)  
 When cd is used with a directory as an arguement, it takes us inside that directory
-![Image](cdtxt.png)  
-When cd is used with file as an arguement, it says 'not such file or directory exists'. 
+![Image](cdtxt1.png)  
+When cd is used with file as an arguement, it says 'not a directory'. This is not an error as cd is can only be used to change directory into another directory or a file. 
 
 # ls command
 ![Image](lsempty.png)  
