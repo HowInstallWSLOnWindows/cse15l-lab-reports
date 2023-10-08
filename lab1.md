@@ -16,8 +16,9 @@ When ls is used with a path to a file as an argument it doesn't list the content
 
 # cat command
 ![Image](catempty.png)  
-
+When cat does not take any argument it does not do any but let us type stuff. This is not an error as when cat does not take in any arguments it waits for an input to be typed. To exit this, one can press ctrl +  c.
 ![Image](catdirectory.png)  
-
+When the cat command takes a path to a directory as an argument it simply tells us that it is directory.
 ![Image](cattxt.png)  
+When the cat command takes a path to a file as an argument it displays the contents of the file. This is not an error but instead a feature of cat.
 
