@@ -8,7 +8,7 @@ When cd is used with file as an arguement, it says 'not a directory'. This is no
 
 # ls command
 ![Image](lsempty.png)  
-
+When ls is used without any arguements it gives a list of whats inside our current directory which would be /home.
 ![Image](lsdirectory.png)  
 
 ![Image](lstxt.png)  
