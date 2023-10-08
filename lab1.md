@@ -9,10 +9,10 @@ When cd is used with file as an arguement, it says 'not a directory'. This is no
 # ls command
 ![Image](lsempty.png)  
 When ls is used without any arguements it gives a list of whats inside our current directory which would be /home.
-![Image](lsdirectory.png)  
-
-![Image](lstxt.png)  
-
+![Image](lsdirectory1.png)  
+When ls is used with a path to a directory as an argument it will list the items within that directory.
+![Image](lstxt1.png)  
+When ls is used with a path to a file as an argument it doesn't list the contents of the text file instead it gives us the path to the text file.
 
 # cat command
 ![Image](catempty.png)  
