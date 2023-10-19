@@ -16,9 +16,9 @@ In our working direcotry /home, when ls is used with a path to a file as an argu
 
 # cat command
 ![Image](catempty.png)  
-When cat does not take any argument it does not do anything but let the user type stuff. This is not an error as when cat does not take in any arguments it waits for an input to be typed. To exit this press ctrl +  c.
+In the home directory ,/home, when cat does not take any argument it does not do anything but let the user type stuff. This is not an error as when cat does not take in any arguments it waits for an input to be typed. To exit this press ctrl +  c.
 ![Image](catdirectory.png)  
-When the cat command takes a path to a directory as an argument it tells us that it is directory. This is not an error as cat is used to print the contents of one or more files given by the paths.
+In our current working directory lecture1, when the cat command takes a path to a directory as an argument it tells us that it is directory. This is not an error as cat is used to print the contents of one or more files given by the paths.
 ![Image](cattxt.png)  
-When the cat command takes a path to a file as an argument it displays the contents of the file. 
+In our current working directory lecture1, when the cat command takes a path to a file as an argument it displays the contents of the file. 
 
