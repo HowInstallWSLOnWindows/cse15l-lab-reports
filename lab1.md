@@ -1,5 +1,5 @@
 # cd command
-![Image](cdempty.png)  
+![Image](picturd/cdempty1.png)  
 When cd was used with no arguments, we stayed in the same directory which is not an error as using cd without any arguments takes us to home directory but since we were already in home directory nothing changed.
 ![Image](cddirectory.png)  
 When cd is used with a directory as an arguement, it takes us inside that directory. We know we are inside a different directory as there is now /lecture1 after the '~' symbol. 
