@@ -2,7 +2,7 @@
 ![Image](picturd/cdempty1.png)  
 Our current working directory is /home/lecture1 and when we use cd with no arguments in this directory it takes us back to our homedirectory /home. This is not an error but a feature of the command cd.
 ![Image](cddirectory.png)  
-When cd is used with a directory as an arguement, it takes us inside that directory. We know we are inside a different directory as there is now /lecture1 after the '~' symbol. 
+In the current directory /home, when cd is used with a directory as an arguement, it takes updates our current working directory to the directory specified as the argument. We know we are inside a different directory as there is now /lecture1 after the '~' symbol. 
 ![Image](cdtxt1.png)  
 When cd is used with file as an arguement, it says 'not a directory'. This is not an error as cd is can only be used to change from one directory into another and not into a file.
 
