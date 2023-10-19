@@ -4,7 +4,7 @@ Our current working directory is /home/lecture1 and when we use cd with no argum
 ![Image](cddirectory.png)  
 In the current directory /home, when cd is used with a directory as an arguement, it takes updates our current working directory to the directory specified as the argument. We know we are inside a different directory as there is now /lecture1 after the '~' symbol. 
 ![Image](cdtxt1.png)  
-In the hoem directory, when cd is used with file as an arguement, it says 'not a directory'. This is not an error as cd is can only be used to update our current working directory to another directory and not to a file.
+In the /home directory, when cd is used with file as an arguement, it says 'not a directory'. This is not an error as cd is can only be used to update our current working directory to another directory and not to a file.
 
 # ls command
 ![Image](lsempty.png)  
@@ -12,7 +12,7 @@ When ls is used without any arguements it gives a list of the files in the direc
 ![Image](lsdirectory1.png)  
 In the /home directory, when ls is used with a path to a directory as an argument it will list the items within that directory. Since argument directory is /lecture1 it lists the files: Hello.java, Hello.class, messages, and README.
 ![Image](lstxt1.png)  
-When ls is used with a path to a file as an argument it doesn't list the contents of the text file instead it gives us the path to the text file.
+In our working direcotry /home, when ls is used with a path to a file as an argument it doesn't list the contents of the text file instead it gave us the absolute path to the text file. Based on some google searchs, this might be some sort of error and not an intended feature of ls.
 
 # cat command
 ![Image](catempty.png)  
