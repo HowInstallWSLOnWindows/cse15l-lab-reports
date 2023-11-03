@@ -39,18 +39,18 @@ static void reverseInPlace(int[] arr) {
 ```
 
 # Part 2  
-![Image](labrep3/findcmdDLS.png)  
+![Image](findcmdDLS.png)  
   
-![Image](labrep3/findcmdFLS.png)  
+![Image](findcmdFLS.png)  
   
-![Image](labrep3/findcmdDirect9.png)  
+![Image](findcmdDirect9.png)  
   
-![Image](labrep3/findcmdDirectA.png)  
+![Image](findcmdDirectA.png)  
   
-![Image](labrep3/findcmdtypeDsize.png)  
+![Image](findcmdtypeDsize.png)  
   
-![Image](labrep3/findcmdtypefsize.png)  
+![Image](findcmdtypefsize.png)  
   
-![Image](labrep3/findcmdFChap.png)  
+![Image](findcmdFChap.png)  
   
-![Image](labrep3/findcmdFSession.png) 
+![Image](findcmdFSession.png) 
