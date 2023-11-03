@@ -39,7 +39,7 @@ static void reverseInPlace(int[] arr) {
 ```
 
 # Part 2  
-![Link](https://man7.org/linux/man-pages/man1/find.1.html#OPTIONS)  
+[Link](https://man7.org/linux/man-pages/man1/find.1.html#OPTIONS)  
 I used this link to find possible options for the find command. Additionally it provides information about these additional options.  
   
 ![Image](findcmdDLS.png)  
@@ -52,7 +52,7 @@ I used this link to find possible options for the find command. Additionally it 
   
 ![Image](findcmdtypeDsize.png)  
   
-![Image](findcmdtypefsize.png)  
+![Image](findcmdtypefSize.png)  
   
 ![Image](findcmdFChap.png)  
   
