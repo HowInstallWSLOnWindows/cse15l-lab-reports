@@ -43,9 +43,10 @@ static void reverseInPlace(int[] arr) {
 I used this link to find possible options for the find command. Additionally it provides information about these additional options.  
   
 ![Image](findcmdDLS.png)  
+The -ls optoin for the find command provides detailed information about each directory, including its permissions, owner, group, size, modification date, and name. Since we gave the additional optoin of the size being more than 10 kibibytes, it only gave us the ./techinical/biomed directory since that was the only one.   
   
 ![Image](findcmdFLS.png)  
-  
+Similarly to above, it provides us with 
 ![Image](findcmdDirect9.png)  
   
 ![Image](findcmdDirectA.png)  
