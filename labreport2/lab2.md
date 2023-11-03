@@ -10,8 +10,7 @@ The next method called is .equal("s") with the relavent argument being "s". Whic
 In the second message, similar to the first message, it calls the .equals("s") to see if String[] parameters[0] is s. Then word count is incremented by one. Since this is the second message word count should be 2. Then word = words + Integer.toString(wordCount)+ "." + parameters[1] + "\n". The methods do the exact same thing as when the first message is added. However by adding words + words, we are ensuring that the previous word is included instead of entirely replacing initial or previous words.
 
 # Part 2  
-![Image](lsprivkey.png)
-![Image](lspubkey.png)
+![Image](keygenthing.png)
 ![Image](terminteract.png)
 
 # Part 3
