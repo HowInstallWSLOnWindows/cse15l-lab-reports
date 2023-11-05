@@ -61,6 +61,8 @@ The command -size simply returns us files or directories that match our size con
 Similar explanation as above for -size, this gave files that are more than 10k. Useful for finding really large files that take up space or possibly finding files that contain nothing in them.
   
 ![Image](findcmdFChap.png)  
-
+This is combination of the -type and -name option for the find command which can be useful when trying to find content of a certain type in the system. It is useful if the directory you want to look at does not contain much but not that helpful when the directory contains a large amount of files.
   
-![Image](findcmdFSession.png) 
+![Image](findcommandtyped.png)  
+This is using the -type option for the find command. By giving it -type d it finds all and lists directories of where we look and the directory we are lookin gin.
+  
