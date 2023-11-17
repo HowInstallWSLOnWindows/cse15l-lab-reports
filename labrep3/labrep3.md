@@ -17,7 +17,7 @@ static void reverseInPlace(int[] arr) {
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
-ss of test runninig i guess
+![JUnit Symptom of running both test](JunitSymptom.png)
 
 ## Before
 ```
