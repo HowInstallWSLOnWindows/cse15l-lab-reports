@@ -35,4 +35,7 @@ Then I clicked the ```<up>``` twice to get back "bash test.sh". Then I pressed `
 
 # Step 9  
 ![Image](step9.png)  
-In this step I typed ```git commit``` and pressed ```<enter>``` to enter my commit message for what I just added. I then typed ```fixed error that caused test to fail``` as my message. I then typed ```shift + ;``` to enter Execute mode. I then typed ``` wq!``` to write/save my message and exit. 
+In this step I typed ```git commit``` and pressed ```<enter>``` to enter my commit message for what I just added. I then typed ```fixed error that caused test to fail``` as my message. I then typed ```shift + ;``` to enter Execute mode. I then typed ``` wq!``` to write/save my message and exit.  
+
+![Image](step9.1.png)  
+In this step I typed ```git status``` and pressed ```<enter>``` to see which changes have been changed and which haven't. Since I wasn't sure I made the correct changes I typed ```git show``` and pressed ```<enter>``` to see the extra details. Then I saw the changes that I made. Since I was satisfied with these changes. I typed ```git push``` to and pressed ```<enter>``` to upload my locals changes on to the main branch.  
